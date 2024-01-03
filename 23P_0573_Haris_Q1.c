@@ -1,3 +1,4 @@
+#new chnages
 #include<stdio.h>
 int formulaOne_car1(int power1,int speed1);
 int formulaOne_car2(int power2,int speed2);
